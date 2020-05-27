@@ -13,7 +13,7 @@ public class ComisionesAap {
 	public static String BECARIO="Becario";
 	public static String HOME="home";
 	
-	public static int IMPORTE_VENTAS_MES_TRAMO_1=1000;
+	public static int IMPORTE_VENTAS_MES_TRAMO_1=900;
 	public static int IMPORTE_VENTAS_MES_TRAMO_2=1500;
 	public static int IMPORTE_VENTAS_MES_TRAMO_3=1000;
 	public static int SALARIO_0=800;
